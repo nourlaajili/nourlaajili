@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Nour el houda 👋
+
+Third‑year Computer Science Engineering student at ENIS — passionate about Data Science, Cloud & DevOps.  
+Gained hands‑on experience through two internships and academic & personal projects.  
+Currently looking for an end‑of‑study internship.  
+Contact:nour-el-houda.laajili@enis.tn • https://www.linkedin.com/in/nour-el-houda-laajili
+
+
 
 <!--
 **nourlaajili/nourlaajili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
