@@ -1,9 +1,11 @@
 # Hi, I'm Nour el houda 👋
 
-Third‑year Computer Science Engineering student at ENIS — passionate about Data Science, Cloud & DevOps.  
+Currently a third‑year Computer Science Engineering student at ENIS — passionate about Data Science, Cloud & DevOps.  
 Gained hands‑on experience through two internships and academic & personal projects.  
 Currently looking for an end‑of‑study internship.  
-Contact:nour-el-houda.laajili@enis.tn • https://www.linkedin.com/in/nour-el-houda-laajili
+
+📫 Contact:   • Mail: nour-el-houda.laajili@enis.tn 
+               • LnkedIn: https://www.linkedin.com/in/nour-el-houda-laajili
 
 
 
