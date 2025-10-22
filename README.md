@@ -1,7 +1,7 @@
 # Hi, I'm Nour el houda 👋
 <p align="center"><strong>Currently a third‑year Computer Science Engineering student with a strong passion for continuous learning and the ability to quickly adapt to new technologies.</strong></p>
 
-Passionate about Data Science, Cloud & DevOps.  
+Passionate about Data Science, AI, Cloud & DevOps.  
 Gained hands‑on experience through two internships and academic & personal projects.  
 Currently looking for an end‑of‑study internship.  
 
