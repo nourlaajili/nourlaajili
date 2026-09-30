@@ -45,18 +45,6 @@ Interested in building **reliable data-driven systems** and applying AI to pract
   <code>Flask</code>
 </p>
 
-### 🚀 Selected Projects
-
-**AI-Powered Secure Authentication System**  
-LLMs • RAG • Python • n8n
-
-AI-driven authentication workflow using LLMs and RAG to classify simulated attack patterns, with automated detection and alerting workflows.
-
-**Pharmaceutical Supply Chain Management System**  
-MERN Stack • Hedera Hashgraph • IPFS • Solidity
-
-Full-stack pharmaceutical supply chain platform enabling end-to-end traceability and secure regulatory document management.
-
 ### 💼 Experience
 
 **Data & AI Engineering Intern — Moonside Consulting & Services**  
@@ -75,6 +63,19 @@ Automated QA reporting and developed a SQL Server data warehouse and Power BI da
 École Nationale d'Ingénieurs de Sfax (ENIS) · 2023–2026
 
 **Highest Honors — Jury Commendation**
+
+
+### 🚀 Selected Projects
+
+**AI-Powered Secure Authentication System**  
+LLMs • RAG • Python • n8n
+
+AI-driven authentication workflow using LLMs and RAG to classify simulated attack patterns, with automated detection and alerting workflows.
+
+**Pharmaceutical Supply Chain Management System**  
+MERN Stack • Hedera Hashgraph • IPFS • Solidity
+
+Full-stack pharmaceutical supply chain platform enabling end-to-end traceability and secure regulatory document management.
 
 ### 📜 Certifications
 
